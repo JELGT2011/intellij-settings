@@ -1,0 +1,23 @@
+<templateSet group="Python">
+  <template name="future" value="from __future__ import absolute_import, print_function, unicode_literals" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="debug" value="import ipdb; ipdb.set_trace()" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="scratch" value="from __future__ import absolute_import, print_function, unicode_literals&#10;&#10;from clay_tornado.lib import ioloop&#10;&#10;if __name__ == '__main__':&#10;    loop = ioloop.IOLoop.instance()&#10;    run = loop.run_sync&#10;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+  <template name="pdb" value="print('$NAME$ = {}'.format($NAME$))" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
