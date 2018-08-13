@@ -1,15 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="chunkwmrc" type="Bash" />
-      <mapping ext="zsh" type="Bash" />
-      <mapping pattern="gitignore" type="Git file" />
-      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="_17_15_longest_word" type="PLAIN_TEXT" />
-      <mapping ext="hql" type="PLAIN_TEXT" />
-      <mapping ext="vim" type="PLAIN_TEXT" />
+      <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping ext="cql" type="PLAIN_TEXT" />
+      <mapping ext="vim" type="PLAIN_TEXT" />
       <mapping ext="user" type="PLAIN_TEXT" />
+      <mapping ext="zsh" type="Bash" />
+      <mapping pattern="chunkwmrc" type="Bash" />
+      <mapping pattern="gitignore" type="Git file" />
     </extensionMap>
   </component>
 </application>
