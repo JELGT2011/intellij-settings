@@ -49,6 +49,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'api:module-core [test]'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'⌃D'</ShortCut>
+          <Description>Debug 'api:module-core [test]'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'failing_test_2'">
         <Item>
           <IdeaActionID>DebugClass</IdeaActionID>
@@ -302,6 +310,14 @@
           <IdeaActionID>Vcs.Log.OpenRepositoryVersion</IdeaActionID>
           <ShortCut>'⌘↓' or 'F4'</ShortCut>
           <Description>Open Repository Version</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Project Structure...">
+        <Item>
+          <IdeaActionID>ShowProjectStructureSettings</IdeaActionID>
+          <ShortCut>'⌘;'</ShortCut>
+          <Description>Project Structure...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1115,6 +1131,12 @@
       </Statistic>
     </option>
     <option name="suppressed">
+      <Statistic Action="Bean Validation">
+        <Item>
+          <IdeaActionID>ActivateBeanValidationToolWindow</IdeaActionID>
+          <Description>Bean Validation</Description>
+        </Item>
+      </Statistic>
       <Statistic Action="Close">
         <Item>
           <IdeaActionID>CloseContent</IdeaActionID>
