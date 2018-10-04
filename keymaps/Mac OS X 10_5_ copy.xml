@@ -16,6 +16,9 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="RunDashboard.ShowConfigurations" />
+  <action id="StringManipulation.Sort">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
   <action id="TabShiftActions.MoveFocusDown">
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
