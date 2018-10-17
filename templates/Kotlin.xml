@@ -1,5 +1,5 @@
 <templateSet group="Kotlin">
-  <template name="provide" value="@Singleton&#10;@Provides&#10;fun provide$NAME$Manager(manager: $NAME$ManagerImpl): $NAME$Manager = manager" description="" toReformat="false" toShortenFQNames="true">
+  <template name="provide" value="@Provides&#10;@Singleton&#10;fun provide$NAME$Manager(manager: $NAME$ManagerImpl): $NAME$Manager = manager" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="KOTLIN" value="true" />
