@@ -5,6 +5,7 @@
       <mapping ext="zsh" type="Bash" />
       <mapping pattern="gitignore" type="Git file" />
       <mapping pattern="nick" type="PLAIN_TEXT" />
+      <mapping pattern="IncentivePayoutJob" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="_17_15_longest_word" type="PLAIN_TEXT" />
       <mapping ext="vim" type="PLAIN_TEXT" />
