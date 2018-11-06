@@ -1,5 +1,91 @@
 <application>
   <component name="libraryTable">
+    <library name="activesupport (v4.2.10, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/activesupport-4.2.10/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/activesupport-4.2.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="addressable (v2.5.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/addressable-2.5.2/tasks" />
+      </excluded>
+    </library>
+    <library name="ast (v2.4.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ast-2.4.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ast-2.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ast-2.4.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ast-2.4.0/test" />
+      </excluded>
+    </library>
+    <library name="atomos (v0.1.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/atomos-0.1.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/atomos-0.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/atomos-0.1.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/atomos-0.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/atomos-0.1.3/bin" />
+      </excluded>
+    </library>
+    <library name="babosa (v1.0.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/babosa-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/babosa-1.0.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/babosa-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/babosa-1.0.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/babosa-1.0.2/spec" />
+      </excluded>
+    </library>
     <library name="bundler (v1.16.6, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -20,6 +106,30 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/bundler-1.16.6/man" />
       </excluded>
     </library>
+    <library name="CFPropertyList (v3.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/CFPropertyList-3.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/CFPropertyList-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="claide (v1.0.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/claide-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/claide-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="cmath (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -28,6 +138,210 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="cocoapods (v1.5.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-1.5.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-1.5.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-1.5.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-1.5.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-1.5.3/bin" />
+      </excluded>
+    </library>
+    <library name="cocoapods-core (v1.5.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-core-1.5.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-core-1.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-deintegrate (v1.0.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-deintegrate-1.0.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-deintegrate-1.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-downloader (v1.2.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-downloader-1.2.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-downloader-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="cocoapods-plugins (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-plugins-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-plugins-1.0.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-plugins-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-plugins-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-plugins-1.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-search (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-search-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-search-1.0.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-search-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-search-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-search-1.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-stats (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-stats-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-stats-1.0.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-stats-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-stats-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-stats-1.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-trunk (v1.3.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-trunk-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-trunk-1.3.1/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-trunk-1.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-trunk-1.3.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-trunk-1.3.1/spec" />
+      </excluded>
+    </library>
+    <library name="cocoapods-try (v1.1.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-try-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-try-1.1.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-try-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-try-1.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/cocoapods-try-1.1.0/spec" />
+      </excluded>
+    </library>
+    <library name="colored (v1.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored-1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored-1.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored-1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored-1.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored-1.2/test" />
+      </excluded>
+    </library>
+    <library name="colored2 (v3.1.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored2-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored2-3.1.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored2-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored2-3.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/colored2-3.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="commander-fastlane (v4.4.6, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/commander-fastlane-4.4.6/spec" />
+      </excluded>
+    </library>
+    <library name="concurrent-ruby (v1.0.5, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/concurrent-ruby-1.0.5-java/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/concurrent-ruby-1.0.5-java/lib" />
+      </SOURCES>
+    </library>
     <library name="csv (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -35,6 +349,257 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="declarative (v0.0.10, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-0.0.10/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-0.0.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-0.0.10/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-0.0.10/test" />
+      </excluded>
+    </library>
+    <library name="declarative-option (v0.1.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-option-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-option-0.1.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-option-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-option-0.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/declarative-option-0.1.0/test" />
+      </excluded>
+    </library>
+    <library name="domain_name (v0.5.20180417, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/tool" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/tool" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/domain_name-0.5.20180417/tool" />
+      </excluded>
+    </library>
+    <library name="dotenv (v2.5.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/dotenv-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/dotenv-2.5.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/dotenv-2.5.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/dotenv-2.5.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/dotenv-2.5.0/bin" />
+      </excluded>
+    </library>
+    <library name="emoji_regex (v0.1.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/emoji_regex-0.1.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/emoji_regex-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="escape (v0.0.4, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/escape-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/escape-0.0.4/doc_include" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/escape-0.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/escape-0.0.4/doc_include" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/escape-0.0.4/doc_include" />
+      </excluded>
+    </library>
+    <library name="excon (v0.62.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/benchmarks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/benchmarks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/tests" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/excon-0.62.0/benchmarks" />
+      </excluded>
+    </library>
+    <library name="faraday (v0.15.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday-0.15.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday-0.15.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="faraday-cookie_jar (v0.0.6, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday-cookie_jar-0.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday-cookie_jar-0.0.6/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday-cookie_jar-0.0.6/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday-cookie_jar-0.0.6/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday-cookie_jar-0.0.6/spec" />
+      </excluded>
+    </library>
+    <library name="faraday_middleware (v0.12.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday_middleware-0.12.2/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/faraday_middleware-0.12.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="fastimage (v2.1.4, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastimage-2.1.4/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastimage-2.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="fastlane (v2.108.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/gym" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/pem" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/scan" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/sigh" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/match" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/pilot" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/supply" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/deliver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/frameit" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/produce" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/fastlane" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/precheck" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/snapshot" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/spaceship" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/screengrab" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/fastlane_core" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/credentials_manager" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/gym" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/pem" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/scan" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/sigh" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/match" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/pilot" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/supply" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/deliver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/frameit" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/produce" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/fastlane" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/precheck" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/snapshot" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/spaceship" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/screengrab" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/fastlane_core" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/credentials_manager" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/gym" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/pem" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/cert" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/scan" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/sigh" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/match" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/pilot" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/supply" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/deliver" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/frameit" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/produce" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/fastlane" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/precheck" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/snapshot" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/spaceship" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/screengrab" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/fastlane_core" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fastlane-2.108.0/credentials_manager" />
+      </excluded>
     </library>
     <library name="ffi (v1.9.21, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
@@ -51,6 +616,63 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="fourflusher (v2.0.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fourflusher-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fourflusher-2.0.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fourflusher-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fourflusher-2.0.1/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fourflusher-2.0.1/bin" />
+      </excluded>
+    </library>
+    <library name="fuzzy_match (v2.0.4, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/benchmark" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/benchmark" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/fuzzy_match-2.0.4/benchmark" />
+      </excluded>
+    </library>
+    <library name="gh_inspector (v1.1.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/gh_inspector-1.1.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/gh_inspector-1.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/gh_inspector-1.1.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/gh_inspector-1.1.3/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/gh_inspector-1.1.3/bin" />
+      </excluded>
     </library>
     <library name="git (v1.3.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
@@ -87,6 +709,94 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/gitlab-4.3.0/spec" />
       </excluded>
     </library>
+    <library name="google-api-client (v0.23.9, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/samples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/generated" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/samples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/generated" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/rakelib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/google-api-client-0.23.9/samples" />
+      </excluded>
+    </library>
+    <library name="googleauth (v0.6.7, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/.kokoro" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/.kokoro" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/googleauth-0.6.7/.kokoro" />
+      </excluded>
+    </library>
+    <library name="highline (v1.7.10, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/site" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/examples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/site" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/examples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/site" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/highline-1.7.10/examples" />
+      </excluded>
+    </library>
+    <library name="http-cookie (v1.0.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/http-cookie-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/http-cookie-1.0.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/http-cookie-1.0.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/http-cookie-1.0.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/http-cookie-1.0.3/test" />
+      </excluded>
+    </library>
     <library name="httparty (v0.16.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -121,6 +831,49 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httparty-0.16.2/examples" />
       </excluded>
     </library>
+    <library name="httpclient (v2.8.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/sample" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/sample" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/httpclient-2.8.3/sample" />
+      </excluded>
+    </library>
+    <library name="i18n (v0.9.5, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/gemfiles" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/i18n-0.9.5/gemfiles" />
+      </excluded>
+    </library>
     <library name="ipaddr (v1.2.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -136,6 +889,23 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="jaro_winkler (v1.5.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jaro_winkler-1.5.1-java/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jaro_winkler-1.5.1-java/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jaro_winkler-1.5.1-java/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jaro_winkler-1.5.1-java/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jaro_winkler-1.5.1-java/ext" />
+      </excluded>
     </library>
     <library name="jruby-launcher (v1.1.6, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
@@ -163,6 +933,23 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jruby-launcher-1.1.6-java/resources" />
       </excluded>
     </library>
+    <library name="jwt (v2.1.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jwt-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jwt-2.1.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jwt-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jwt-2.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/jwt-2.1.0/spec" />
+      </excluded>
+    </library>
     <library name="listen (v3.1.5, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -180,6 +967,116 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/listen-3.1.5/bin" />
       </excluded>
     </library>
+    <library name="memoist (v0.16.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/script" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/script" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/memoist-0.16.0/script" />
+      </excluded>
+    </library>
+    <library name="mime-types (v3.2.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-3.2.2/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-3.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-3.2.2/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-3.2.2/test" />
+      </excluded>
+    </library>
+    <library name="mime-types-data (v3.2018.0812, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/types" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/types" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mime-types-data-3.2018.0812/types" />
+      </excluded>
+    </library>
+    <library name="mini_magick (v4.5.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mini_magick-4.5.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/mini_magick-4.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="minitest (v5.11.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/minitest-5.11.3/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/minitest-5.11.3/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/minitest-5.11.3/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/minitest-5.11.3/test" />
+      </excluded>
+    </library>
+    <library name="molinillo (v0.6.6, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/molinillo-0.6.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/molinillo-0.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_json (v1.13.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.6.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -191,6 +1088,220 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multipart-post-2.0.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multipart-post-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multipart-post-2.0.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/multipart-post-2.0.0/test" />
+      </excluded>
+    </library>
+    <library name="nanaimo (v0.2.6, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nanaimo-0.2.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nanaimo-0.2.6/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nanaimo-0.2.6/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nanaimo-0.2.6/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nanaimo-0.2.6/bin" />
+      </excluded>
+    </library>
+    <library name="nap (v1.1.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nap-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nap-1.1.0/support" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nap-1.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nap-1.1.0/support" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/nap-1.1.0/support" />
+      </excluded>
+    </library>
+    <library name="naturally (v2.2.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/naturally-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/naturally-2.2.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/naturally-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/naturally-2.2.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/naturally-2.2.0/spec" />
+      </excluded>
+    </library>
+    <library name="netrc (v0.11.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/netrc-0.11.0/test" />
+      </excluded>
+    </library>
+    <library name="os (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/autotest" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/autotest" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/os-1.0.0/autotest" />
+      </excluded>
+    </library>
+    <library name="parallel (v1.12.1, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parallel-1.12.1/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parallel-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.5.3.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/doc" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/parser-2.5.3.0/test" />
+      </excluded>
+    </library>
+    <library name="plist (v3.4.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/plist-3.4.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/plist-3.4.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/plist-3.4.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/plist-3.4.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/plist-3.4.0/bin" />
+      </excluded>
+    </library>
+    <library name="powerpack (v0.1.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/powerpack-0.1.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/powerpack-0.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/powerpack-0.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/powerpack-0.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="public_suffix (v2.0.5, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/public_suffix-2.0.5/test" />
+      </excluded>
+    </library>
+    <library name="rainbow (v3.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rainbow-3.0.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rainbow-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rainbow-3.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rainbow-3.0.0/spec" />
+      </excluded>
     </library>
     <library name="rake-ant (v1.0.4, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
@@ -291,6 +1402,107 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/stdlib/rdoc/generator" />
       </excluded>
     </library>
+    <library name="representable (v3.0.4, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/representable-3.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/representable-3.0.4/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/representable-3.0.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/representable-3.0.4/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/representable-3.0.4/test" />
+      </excluded>
+    </library>
+    <library name="retriable (v3.1.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/retriable-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/retriable-3.1.2/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/retriable-3.1.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/retriable-3.1.2/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/retriable-3.1.2/spec" />
+      </excluded>
+    </library>
+    <library name="rouge (v2.0.7, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rouge-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rouge-2.0.7/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rouge-2.0.7/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rouge-2.0.7/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rouge-2.0.7/bin" />
+      </excluded>
+    </library>
+    <library name="rubocop (v0.60.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/config" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/exe" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubocop-0.60.0/config" />
+      </excluded>
+    </library>
+    <library name="ruby-macho (v1.2.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ruby-macho-1.2.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ruby-macho-1.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.10.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ruby-progressbar-1.10.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ruby-progressbar-1.10.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby_dep (v1.5.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -303,6 +1515,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/ruby_dep-1.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="rubyzip (v1.2.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/samples" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/samples" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/test" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/rubyzip-1.2.2/samples" />
+      </excluded>
+    </library>
     <library name="scanf (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -310,6 +1542,61 @@
       <CLASSES />
       <JAVADOC />
       <SOURCES />
+    </library>
+    <library name="security (v0.1.3, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/security-0.1.3/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/security-0.1.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="signet (v0.11.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/website" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/website" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/signet-0.11.0/website" />
+      </excluded>
+    </library>
+    <library name="simctl (v1.6.5, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/fastlane-plugin-simctl" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/fastlane-plugin-simctl" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/simctl-1.6.5/fastlane-plugin-simctl" />
+      </excluded>
     </library>
     <library name="slack-notifier (v2.3.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
@@ -328,6 +1615,25 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/slack-notifier-2.3.2/spec" />
       </excluded>
     </library>
+    <library name="terminal-notifier (v1.8.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-notifier-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-notifier-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-notifier-1.8.0/vendor" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-notifier-1.8.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-notifier-1.8.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-notifier-1.8.0/vendor" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-notifier-1.8.0/bin" />
+      </excluded>
+    </library>
     <library name="terminal-table (v1.8.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -343,6 +1649,138 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/terminal-table-1.8.0/examples" />
+      </excluded>
+    </library>
+    <library name="thread_safe (v0.3.6, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/yard-template" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/yard-template" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/tasks" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/examples" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/thread_safe-0.3.6-java/yard-template" />
+      </excluded>
+    </library>
+    <library name="tty-cursor (v0.6.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-cursor-0.6.0/tasks" />
+      </excluded>
+    </library>
+    <library name="tty-screen (v0.6.5, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/tasks" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/tasks" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-screen-0.6.5/tasks" />
+      </excluded>
+    </library>
+    <library name="tty-spinner (v0.8.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-spinner-0.8.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tty-spinner-0.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.5, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/tzinfo-1.2.5/test" />
+      </excluded>
+    </library>
+    <library name="uber (v0.1.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/uber-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/uber-0.1.0/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/uber-0.1.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/uber-0.1.0/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/uber-0.1.0/test" />
+      </excluded>
+    </library>
+    <library name="unf (v0.1.4, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unf-0.1.4-java/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unf-0.1.4-java/test" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unf-0.1.4-java/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unf-0.1.4-java/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unf-0.1.4-java/test" />
       </excluded>
     </library>
     <library name="unicode-display_width (v1.3.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
@@ -365,6 +1803,26 @@
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.3.2/spec" />
       </excluded>
     </library>
+    <library name="unicode-display_width (v1.4.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/unicode-display_width-1.4.0/spec" />
+      </excluded>
+    </library>
     <library name="webrick (v1.4.2, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="3" />
@@ -381,6 +1839,85 @@
       <excluded>
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/stdlib/webrick/httpauth" />
         <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/stdlib/webrick/httpservlet" />
+      </excluded>
+    </library>
+    <library name="word_wrap (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/spec" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/word_wrap-1.0.0/spec" />
+      </excluded>
+    </library>
+    <library name="xcodeproj (v1.7.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcodeproj-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcodeproj-1.7.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcodeproj-1.7.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcodeproj-1.7.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcodeproj-1.7.0/bin" />
+      </excluded>
+    </library>
+    <library name="xcpretty (v0.3.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/features" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/assets" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/features" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/spec" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-0.3.0/assets" />
+      </excluded>
+    </library>
+    <library name="xcpretty-travis-formatter (v1.0.0, rbenv: jruby-9.2.0.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="3" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-travis-formatter-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-travis-formatter-1.0.0/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-travis-formatter-1.0.0/bin" />
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-travis-formatter-1.0.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rbenv/versions/jruby-9.2.0.0/lib/ruby/gems/shared/gems/xcpretty-travis-formatter-1.0.0/bin" />
       </excluded>
     </library>
   </component>
