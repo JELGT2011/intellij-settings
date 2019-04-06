@@ -4,6 +4,7 @@
       <mapping pattern="chunkwmrc" type="Bash" />
       <mapping ext="zsh" type="Bash" />
       <mapping pattern="gitignore" type="Git file" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="nick" type="PLAIN_TEXT" />
       <mapping pattern="BountyPriceLog" type="PLAIN_TEXT" />
       <mapping pattern="not_a_migration" type="PLAIN_TEXT" />
