@@ -13,6 +13,8 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="not_a_migration" type="PLAIN_TEXT" />
       <mapping pattern="SERVICES" type="PLAIN_TEXT" />
+      <mapping pattern="dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern="nick" type="PLAIN_TEXT" />
       <mapping pattern="BountyPriceLog" type="PLAIN_TEXT" />
       <mapping pattern="_17_15_longest_word" type="PLAIN_TEXT" />
