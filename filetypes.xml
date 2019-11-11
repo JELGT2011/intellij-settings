@@ -5,7 +5,6 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="deploy" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".tfversion" type="PLAIN_TEXT" />
       <mapping pattern="ktlint" type="PLAIN_TEXT" />
