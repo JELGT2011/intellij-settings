@@ -71,7 +71,6 @@
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/348993582" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -89,7 +88,6 @@
         <root url="file:///Library/Python/2.7/site-packages" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
         <root url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/348993582" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -120,7 +118,6 @@
     </library>
     <library name="Python 3.7 (goforbroca) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/Repositories/goforbroca/env/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1693256412" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -130,7 +127,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/Repositories/goforbroca/env/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1693256412" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -141,9 +137,6 @@
     </library>
     <library name="Python 3.7 (recorder) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2101883110" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -152,9 +145,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2101883110" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -164,8 +154,6 @@
     </library>
     <library name="Python 3.7 (recorder-api) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/Repositories/colony/platform/recorder-api/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2030493562" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -174,8 +162,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/Repositories/colony/platform/recorder-api/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2030493562" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -210,31 +196,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
-    <library name="Python 3.8 (goforbroca) interpreter library">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/goforbroca/env/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1693256412" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.8.0/lib/python3.8/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/goforbroca/env/lib/python3.8/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1693256412" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
