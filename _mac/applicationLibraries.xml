@@ -1,33 +1,21 @@
 <application>
   <component name="libraryTable">
-    <library name="bigdecimal (v1.3.4, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="bigdecimal (v1.3.4, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="bundler (v1.17.1, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="bundler (v1.17.1, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="did_you_mean (v1.2.0, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="did_you_mean (v1.2.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="fiddle (v1.0.0, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="fiddle (v1.0.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -37,58 +25,37 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="io-console (v0.4.6, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="io-console (v0.4.6, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="json (v2.1.0, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="json (v2.1.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="minitest (v5.10.3, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="minitest (v5.10.3, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="net-telnet (v0.1.1, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="net-telnet (v0.1.1, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="openssl (v2.1.0, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="openssl (v2.1.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="power_assert (v1.1.1, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="power_assert (v1.1.1, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="psych (v3.0.2, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="psych (v3.0.2, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
@@ -137,9 +104,6 @@
     </library>
     <library name="Python 3.7 (recorder) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2101883110" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -148,9 +112,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2101883110" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -161,7 +122,6 @@
     <library name="Python 3.7 (recorder-api) interpreter library">
       <CLASSES>
         <root url="file://$USER_HOME$/Repositories/colony/platform/recorder-api/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2030493562" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -171,7 +131,6 @@
       <JAVADOC />
       <SOURCES>
         <root url="file://$USER_HOME$/Repositories/colony/platform/recorder-api/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2030493562" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -213,42 +172,27 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
-    <library name="rake (v12.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="rake (v12.3.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="rdoc (v6.0.1, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="rdoc (v6.0.1, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="test-unit (v3.2.7, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="test-unit (v3.2.7, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="webrick (v1.4.2, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="webrick (v1.4.2, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="xmlrpc (v0.3.0, rbenv: 2.5.1) [gem]" type="rubylib">
-      <properties>
-        <option name="version" value="4" />
-      </properties>
+    <library name="xmlrpc (v0.3.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
       <SOURCES />
