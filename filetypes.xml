@@ -6,6 +6,7 @@
       <mapping ext="deploy" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
+      <mapping pattern="Pipfile" type="PLAIN_TEXT" />
       <mapping pattern=".tfversion" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="ktlint" type="PLAIN_TEXT" />
