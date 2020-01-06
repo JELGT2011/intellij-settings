@@ -118,10 +118,6 @@
     </library>
     <library name="Python 3.7 (common.com) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/colony/customers/common.com/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1914826597" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -130,10 +126,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/colony/customers/common.com/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/1914826597" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -164,10 +156,6 @@
     </library>
     <library name="Python 3.7 (pypi) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/colony/infrastructure/pypi/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/766219679" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -175,23 +163,10 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/colony/infrastructure/pypi/env/lib/python3.7/site-packages" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/766219679" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
+      <SOURCES />
     </library>
     <library name="Python 3.7 (recorder) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2101883110" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -200,9 +175,6 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/3.7.4/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-2101883110" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
@@ -252,7 +224,6 @@
       <CLASSES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.7.5/lib/python3.7" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.7.5/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/이거 어떻게 말해/env/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1374305553" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -264,7 +235,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.pyenv/versions/3.7.5/lib/python3.7" />
         <root url="file://$USER_HOME$/.pyenv/versions/3.7.5/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/이거 어떻게 말해/env/lib/python3.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1374305553" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
