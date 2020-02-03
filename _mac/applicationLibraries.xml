@@ -62,14 +62,11 @@
     </library>
     <library name="Python 2.7 (venv27) interpreter library">
       <CLASSES>
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/envs/venv27/lib/python2.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/envs/venv27/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/plat-darwin" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/plat-mac" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/envs/venv27/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1300843393" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
@@ -79,14 +76,11 @@
       </CLASSES>
       <JAVADOC />
       <SOURCES>
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/envs/venv27/lib/python2.7" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/envs/venv27/lib/python2.7/lib-dynload" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/plat-darwin" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/lib-tk" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/plat-mac" />
         <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/lib/python2.7/plat-mac/lib-scriptpackages" />
-        <root url="file://$USER_HOME$/.pyenv/versions/2.7.17/envs/venv27/lib/python2.7/site-packages" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1300843393" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2" />
@@ -208,9 +202,6 @@
       <CLASSES>
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/colony/customers/gusto/env/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/Repositories/colony/customers/gusto/env/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/Repositories/colony/customers/gusto/env/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1283250937" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
@@ -222,9 +213,6 @@
       <SOURCES>
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7" />
         <root url="file:///usr/local/Cellar/python/3.7.6_1/Frameworks/Python.framework/Versions/3.7/lib/python3.7/lib-dynload" />
-        <root url="file://$USER_HOME$/Repositories/colony/customers/gusto/env/lib/python3.7/site-packages" />
-        <root url="jar://$USER_HOME$/Repositories/colony/customers/gusto/env/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg!/" />
-        <root url="file://$USER_HOME$/Repositories/colony/customers/gusto/env/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg" />
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2019.2/python_stubs/-1283250937" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
