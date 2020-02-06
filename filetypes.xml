@@ -7,6 +7,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="deploy" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="MANIFEST" type="PLAIN_TEXT" />
       <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
       <mapping pattern=".keep" type="PLAIN_TEXT" />
       <mapping pattern=".tfversion" type="PLAIN_TEXT" />
