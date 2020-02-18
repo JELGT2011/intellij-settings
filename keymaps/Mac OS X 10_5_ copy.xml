@@ -5,6 +5,7 @@
   <action id="BaseOnThisFunction" />
   <action id="CallHierarchy" />
   <action id="CallHierarchy.BaseOnThisType" />
+  <action id="ChangesView.Move" />
   <action id="EditorCutLineEnd" />
   <action id="GoCallHierarchyPopupMenu.BaseOnThisDeclaration" />
   <action id="GoTypeHierarchyPopupMenu.BaseOnThisType" />
@@ -54,6 +55,7 @@
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Vcs.MoveChangedLinesToChangelist" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
@@ -63,4 +65,5 @@
   <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorOnlyLayoutChangeAction">
     <keyboard-shortcut first-keystroke="shift meta t" />
   </action>
+  <action id="rspec.LetIntroduce" />
 </keymap>
