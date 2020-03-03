@@ -268,6 +268,11 @@
         <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
       </SOURCES>
     </library>
+    <library name="Python 3.8 (parrot) interpreter library">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="rake (v12.3.0, rbenv: 2.5.1) [gem]">
       <CLASSES />
       <JAVADOC />
