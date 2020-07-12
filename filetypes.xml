@@ -5,6 +5,7 @@
       <mapping pattern="Dockerfile*" type="Dockerfile" />
       <mapping ext="deploy" type="Groovy" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern=".flaskenv.template" type="PLAIN_TEXT" />
       <mapping pattern=".python-version" type="PLAIN_TEXT" />
       <mapping pattern="ktlint" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
