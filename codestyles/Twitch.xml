@@ -1,4 +1,11 @@
-<code_scheme name="api" version="173">
+<code_scheme name="Twitch" version="173">
+  <GoCodeStyleSettings>
+    <option name="REMOVE_REDUNDANT_IMPORT_ALIASES" value="true" />
+    <option name="MOVE_ALL_IMPORTS_IN_ONE_DECLARATION" value="true" />
+    <option name="MOVE_ALL_STDLIB_IMPORTS_IN_ONE_GROUP" value="true" />
+    <option name="GROUP_STDLIB_IMPORTS" value="true" />
+    <option name="GROUP_CURRENT_PROJECT_IMPORTS" value="true" />
+  </GoCodeStyleSettings>
   <JetCodeStyleSettings>
     <option name="PACKAGES_TO_USE_STAR_IMPORTS">
       <value />
@@ -8,16 +15,6 @@
     <option name="CONTINUATION_INDENT_IN_PARAMETER_LISTS" value="false" />
     <option name="CONTINUATION_INDENT_IN_ARGUMENT_LISTS" value="false" />
   </JetCodeStyleSettings>
-  <MarkdownNavigatorCodeStyleSettings>
-    <option name="RIGHT_MARGIN" value="72" />
-  </MarkdownNavigatorCodeStyleSettings>
-  <codeStyleSettings language="Groovy">
-    <indentOptions>
-      <option name="INDENT_SIZE" value="2" />
-      <option name="CONTINUATION_INDENT_SIZE" value="4" />
-      <option name="TAB_SIZE" value="2" />
-    </indentOptions>
-  </codeStyleSettings>
   <codeStyleSettings language="kotlin">
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="FIELD_ANNOTATION_WRAP" value="0" />
