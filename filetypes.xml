@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="BrazilMakefile" type="PLAIN_TEXT" />
       <mapping pattern=".terraform_version" type="PLAIN_TEXT" />
+      <mapping pattern="run_agent" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
